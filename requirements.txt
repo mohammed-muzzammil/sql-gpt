@@ -6,7 +6,6 @@ openai
 pymysql
 mssql
 mysql-connector-python
-psycopg2
 pyodbc
 cx_Oracle
 oracle
