@@ -3,3 +3,11 @@ pandas
 langchain
 sqlalchemy
 openai
+pymysql
+postgresql
+mssql
+mysql-connector-python
+psycopg2
+pyodbc
+cx_Oracle
+oracle
