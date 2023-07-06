@@ -4,7 +4,6 @@ langchain
 sqlalchemy
 openai
 pymysql
-postgresql
 mssql
 mysql-connector-python
 psycopg2
