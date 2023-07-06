@@ -8,3 +8,4 @@ mssql
 mysql-connector-python
 pyodbc
 cx_Oracle
+matplotlib
